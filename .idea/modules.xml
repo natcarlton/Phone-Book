@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone_Book.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone_Book.iml" group="Phone_Book" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task.iml" group="Phone_Book/Phone_Book-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_main.iml" group="Phone_Book/Phone_Book-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Phone Book/task/Phone_Book-task_test.iml" group="Phone_Book/Phone_Book-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle.iml" group="Phone_Book/Problems-Area_of_a_circle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_main.iml" group="Phone_Book/Problems-Area_of_a_circle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Area of a circle/Problems-Area_of_a_circle_test.iml" group="Phone_Book/Problems-Area_of_a_circle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Closed case/Problems-Closed_case.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Closed case/Problems-Closed_case.iml" group="Phone_Book/Problems-Closed_case" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Closed case/Problems-Closed_case_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Closed case/Problems-Closed_case_main.iml" group="Phone_Book/Problems-Closed_case" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Closed case/Problems-Closed_case_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Closed case/Problems-Closed_case_test.iml" group="Phone_Book/Problems-Closed_case" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance.iml" group="Phone_Book/Problems-Distance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_main.iml" group="Phone_Book/Problems-Distance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Distance/Problems-Distance_test.iml" group="Phone_Book/Problems-Distance" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression.iml" group="Phone_Book/Problems-Evaluate_an_expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression_main.iml" group="Phone_Book/Problems-Evaluate_an_expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Evaluate an expression/Problems-Evaluate_an_expression_test.iml" group="Phone_Book/Problems-Evaluate_an_expression" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula.iml" group="Phone_Book/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_main.iml" group="Phone_Book/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Heron's formula/Problems-Heron's_formula_test.iml" group="Phone_Book/Problems-Heron's_formula" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Problems-Sine_and_cosine.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Problems-Sine_and_cosine.iml" group="Phone_Book/Problems-Sine_and_cosine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Problems-Sine_and_cosine_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Problems-Sine_and_cosine_main.iml" group="Phone_Book/Problems-Sine_and_cosine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Problems-Sine_and_cosine_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sine and cosine/Problems-Sine_and_cosine_test.iml" group="Phone_Book/Problems-Sine_and_cosine" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors.iml" group="Phone_Book/Problems-The_angle_between_vectors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_main.iml" group="Phone_Book/Problems-The_angle_between_vectors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/The angle between vectors/Problems-The_angle_between_vectors_test.iml" group="Phone_Book/Problems-The_angle_between_vectors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Phone_Book/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Phone_Book/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Phone_Book/util" />
+    </modules>
+  </component>
+</project>
